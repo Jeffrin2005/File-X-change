@@ -4,6 +4,7 @@ A modern file-sharing application built with React, Tailwind CSS, and Vite for t
 
 ## Features
 
+
 - 📤 File upload with drag-and-drop support
 - 🔗 Secure shareable link generation
 - ⬇️ Easy file downloading
